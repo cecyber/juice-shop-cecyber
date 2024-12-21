@@ -556,7 +556,7 @@ app.use(errorhandler())
 exports.start = async function (readyCallback) {
   await models.sequelize.sync({ force: true })
   await datacreator()
-  const port = process.env.PORT || config.get('server.port')
+  const port = 3000
   process.env.BASE_PATH = process.env.BASE_PATH || config.get('server.basePath')
 
   server.listen(port, () => {

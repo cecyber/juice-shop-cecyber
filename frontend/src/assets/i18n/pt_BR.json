@@ -278,7 +278,7 @@
   "HIDE_PWD_TOOLTIP": "Ocultar senha",
   "DATA_EXPORT_HINT": "(O teu pedido de visualização dos teus dados abrirá numa nova janela do Browser que estás a usar.)",
   "LABEL_SOLD_OUT": "Vendido",
-  "LABEL_ONLY_QUANTITY_LEFT": "Existem apenas {{quantity}} ",
+  "LABEL_ONLY_QUANTITY_LEFT": "Apenas {{quantity}} ",
   "THANKS_FOR_PURCHASE": "Obrigado pela tua compra!",
   "PURCHASE_COMMENT_PREFIX": "O teu pedido foi submetido e está a ser processado. Podes verificar o seu estado na nossa",
   "PURCHASE_COMMENT_SUFFIX": "página.",
